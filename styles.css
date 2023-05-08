@@ -1,0 +1,51 @@
+/* sdfoing;jksodfngj */
+
+.main{
+    background-color: rgb(237, 231, 231);
+    margin-top: 20px;
+    align-content: center;
+    align-self: center;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    width: 350px;
+    padding-top: 3cm;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.inp{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.btn{
+    border-radius: 10px;
+    margin-top: 15px;
+    /* margin-left: 0px; */
+    width: 100%;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+p{
+    background-color: azure;
+    margin-left: 10px;
+    height: 20px;
+    /* width: 100%; */
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(143, 188, 227);
+}
